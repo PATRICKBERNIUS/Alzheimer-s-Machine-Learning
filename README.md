@@ -1,1 +1,1 @@
-To read the full report, click here: [Download Report (PDF)](Alz%20ML%Report.pdf)
+To read the full report, click here: [View Report (PDF)](reports/Alz%20ML%20Report.pdf)
